@@ -1,1 +1,1 @@
-# magicCube
+# 3d 魔方
